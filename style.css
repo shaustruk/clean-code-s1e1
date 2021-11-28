@@ -140,11 +140,11 @@ ul li input[type=text] {
   display:none
 }
 
-ul li.edit-mode input[type=text] {
+.list-tasks__item_edit-mode input[type=text] {
   display:inline-block;
   width:224px
 }
 
-ul li.edit-mode label {
+.list-tasks__item_edit-mode label {
   display:none;
 }
