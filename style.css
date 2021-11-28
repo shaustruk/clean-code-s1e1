@@ -124,7 +124,6 @@
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -157,6 +156,7 @@
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
+
 .task-btn_delete .task-btn__img:hover {
   transform: rotateZ(0);
 }
