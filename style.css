@@ -50,7 +50,8 @@
   padding: 0px;
 }
 
-.list-tasks__item, .section-title {
+.list-tasks__item,
+.section-title {
   list-style: none;
 }
 
