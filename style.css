@@ -148,7 +148,7 @@
 
 .list-tasks__item .task-input_text,
 .list-tasks__item .task-input_active {
-  width: 226px
+  width: 226px;
 }
 
 .task-btn_delete .task-btn__img {
@@ -162,18 +162,18 @@
 
 /* Completed */
 .list-tasks_completed-tasks .task-label_active {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 .list-tasks__item .task-input_active[type=text] {
-  display: none
+  display: none;
 }
 
 .list-tasks__item_edit-mode .task-input_active[type=text] {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .list-tasks__item_edit-mode .task-label_active {
